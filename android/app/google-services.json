@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520022503145",
+    "project_id": "financial-goal-dhiwise",
+    "storage_bucket": "financial-goal-dhiwise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520022503145:android:839114d2df1c229f66ca78",
+        "android_client_info": {
+          "package_name": "com.finacialgoal.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-t7sucNTTPUkTqy_v6oPiBp9HHNcJDHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
